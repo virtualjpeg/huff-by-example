@@ -7,7 +7,7 @@ This repository is intended to serve as reference material for those learning Hu
 | Hello World | virtualjpeg                       |
 | Variables   |                                   |
 | Macros      | virtualjpeg                       |
-| Interfaces  |                                   |
+| Interfaces  | JoshuaTrujillo15                  |
 | Imports     |                                   |
 | EVM dialect |                                   |
 
