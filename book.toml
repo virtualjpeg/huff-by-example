@@ -1,0 +1,6 @@
+[book]
+authors = ["virtual"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Huff By Example"
