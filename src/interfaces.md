@@ -47,6 +47,7 @@ The following is the function interface of a contract that conforms to the ERC20
 To define an event, we will need only the following components.
 
 - Name
+
 - Parameter Types
 
 If an event takes no arguments, we must use empty parenthesis.
