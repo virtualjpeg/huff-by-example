@@ -13,12 +13,12 @@ Once the compiler is installed, here are some examples.
 
 - [Macros]() - Macros, not to be confused with functions!
 
-- [Interfaces](./interfaces.md) - The external contract interface (ABI)
+- [Interfaces](./interfaces.md) - The external contract interface (ABI).
 
 - [Imports]() - Importing other functionality.
 
-- [EVM Dialect]()
+- [EVM Dialect]() - EVM opcode reference and usage.
 
-- [Applications](./applications.md) - Applications and project structure
+- [Applications](./applications.md) - Applications and project structure.
 
-- [Testing](./testing.md) - Testing
+- [Testing](./testing.md) - Testing Huff contracts.
