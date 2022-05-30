@@ -5,7 +5,7 @@
 - [Hello World]()
 - [Variables]()
 - [Macros]()
-- [Interfaces]()
+- [Interfaces](./interfaces.md)
 - [Imports]()
 - [EVM Dialect]()
 
