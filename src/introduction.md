@@ -11,7 +11,7 @@ Now lets begin!
 
 - [Variables]() - Variables and constants.
 
-- [Macros]() - Macros, not to be confused with functions!
+- [Macros](./macros.md) - Macros, not to be confused with functions!
 
 - [Interfaces](./interfaces.md) - The external contract interface (ABI).
 

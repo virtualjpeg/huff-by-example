@@ -2,13 +2,16 @@
 
 [Introduction](./introduction.md)
 
-- [Hello World]()
+- [Hello World](./hello_world.md)
 - [Variables]()
-- [Macros]()
+- [Macros](./macros.md)
 - [Interfaces](./interfaces.md)
 - [Imports]()
 - [EVM Dialect]()
 
-[Applications](./applications.md)
+# Applications
 
-[Testing](./testing.md)
+- [ERC20](./ERC20.md)
+- [ERC721](./ERC721.md)
+
+# Testing
